@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mygit\\smart_ptr\\smart_ptr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41C27554-E3E8-4217-908F-0F1DDA6E6137}|unique_ptr\\unique_ptr.vcxproj|E:\\mygit\\smart_ptr\\smart_ptr\\unique_ptr\\shared_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41C27554-E3E8-4217-908F-0F1DDA6E6137}|unique_ptr\\unique_ptr.vcxproj|solutionrelative:unique_ptr\\shared_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96D0AA8-447C-4D05-B1FE-54CA141AC857}|shared_ptr\\shared_ptr.vcxproj|E:\\mygit\\smart_ptr\\smart_ptr\\shared_ptr\\unique_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B96D0AA8-447C-4D05-B1FE-54CA141AC857}|shared_ptr\\shared_ptr.vcxproj|solutionrelative:shared_ptr\\unique_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4A87D7-8358-40F9-95F6-C728AE883D71}|auto_ptr\\auto_ptr.vcxproj|E:\\mygit\\smart_ptr\\smart_ptr\\auto_ptr\\auto_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E4A87D7-8358-40F9-95F6-C728AE883D71}|auto_ptr\\auto_ptr.vcxproj|solutionrelative:auto_ptr\\auto_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "auto_ptr.cpp",
+              "DocumentMoniker": "E:\\mygit\\smart_ptr\\smart_ptr\\auto_ptr\\auto_ptr.cpp",
+              "RelativeDocumentMoniker": "auto_ptr\\auto_ptr.cpp",
+              "ToolTip": "E:\\mygit\\smart_ptr\\smart_ptr\\auto_ptr\\auto_ptr.cpp",
+              "RelativeToolTip": "auto_ptr\\auto_ptr.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T08:38:27.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "unique_ptr.cpp",
+              "DocumentMoniker": "E:\\mygit\\smart_ptr\\smart_ptr\\shared_ptr\\unique_ptr.cpp",
+              "RelativeDocumentMoniker": "shared_ptr\\unique_ptr.cpp",
+              "ToolTip": "E:\\mygit\\smart_ptr\\smart_ptr\\shared_ptr\\unique_ptr.cpp",
+              "RelativeToolTip": "shared_ptr\\unique_ptr.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T08:38:43.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "shared_ptr.cpp",
+              "DocumentMoniker": "E:\\mygit\\smart_ptr\\smart_ptr\\unique_ptr\\shared_ptr.cpp",
+              "RelativeDocumentMoniker": "unique_ptr\\shared_ptr.cpp",
+              "ToolTip": "E:\\mygit\\smart_ptr\\smart_ptr\\unique_ptr\\shared_ptr.cpp",
+              "RelativeToolTip": "unique_ptr\\shared_ptr.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T08:38:55.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
