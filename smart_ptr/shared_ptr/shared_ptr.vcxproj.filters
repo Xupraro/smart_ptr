@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="unique_ptr.cpp">
+    <ClCompile Include="shared_ptr.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
